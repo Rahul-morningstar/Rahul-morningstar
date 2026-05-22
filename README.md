@@ -1,5 +1,5 @@
 👋 Hello, I'm Rahul Singh!
-I am a Business & Data Analyst and B.Tech Computer Science graduate with a passion for transforming complex datasets into actionable strategic stories. My work bridges the gap between technical engineering and high-level business intelligence.
+I am a Data & Business Analyst and B.Tech Computer Science graduate with a passion for transforming complex datasets into actionable strategic stories. My work bridges the gap between technical engineering and high-level business intelligence.
 
 🚀 What I Do
 Data Science: Building predictive models and performing deep dives into data to uncover hidden trends.
@@ -30,5 +30,6 @@ Operational Excellence: Managed cross-functional teams and complex data pipeline
 LinkedIn: linkedin.com/in/ranul-kumar
 
 Email: rjrahulsingh37@gmail.com
+email: heyrahulsingh07@gmail.com
 
 Always exploring new ways to turn data into value. 💡
